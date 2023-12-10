@@ -1,0 +1,33 @@
+
+body{
+    
+    background-color:rgb(245, 245, 235);
+}
+.container{ 
+    width:50% ;
+    margin:0 auto ;
+    padding-top: 50px;
+
+}
+  
+#resultats {
+    width: 100%;
+    margin-top: 20px;
+    overflow-x: auto; 
+  }
+  
+  #resultats table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  #resultats th,
+  #resultats td {
+    border: 1px solid #ddd;
+    padding: 8px ;
+    text-align: center;
+  }
+  
+
+  
+  
